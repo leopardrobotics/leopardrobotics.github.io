@@ -15,7 +15,7 @@ documentation, for the club.
 
 ## Sign-up Sheet (Due April 24, 2017)
 
-*Coming Soon*
+- [Sign-up Sheet](https://drive.google.com/open?id=0B7O54woMLwgSd0gwOUpxSVB5N28)
 
 ## Google Docs Drive
 

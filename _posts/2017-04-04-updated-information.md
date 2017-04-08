@@ -12,8 +12,9 @@ to take shape as a hub for information. On the [Documentation](/docs) page,
 you'll find references to the [information sheet][sheet] and [presentation slides][slides]
 from our first general meeting on March 20, 2017.
 
-This week, sign-up sheets will be made available to students at school, but you
+This week, [sign-up sheets][sign-up] will be made available to students at school, but you
 should watch this website. Once it is sent to the students, we'll post it here.
 
 [slides]: https://drive.google.com/open?id=0B7O54woMLwgSS0JhU3JJUVViZjQ
 [sheet]: https://drive.google.com/open?id=0B7O54woMLwgSV19ocUlSN1Q5SEE
+[sign-up]: https://drive.google.com/open?id=0B7O54woMLwgSd0gwOUpxSVB5N28
