@@ -13,9 +13,9 @@ documentation, for the club.
 - [Information Presentation Slides](https://drive.google.com/open?id=0B7O54woMLwgSS0JhU3JJUVViZjQ)
 - [Basic Information](https://drive.google.com/open?id=0B7O54woMLwgSV19ocUlSN1Q5SEE)
 
-## Sign-up Sheet (Due April 24, 2017)
+## Sign-up Sheet (Due May 1, 2017)
 
-- [Sign-up Sheet](https://drive.google.com/open?id=0B7O54woMLwgSd0gwOUpxSVB5N28)
+- [Sign-up Sheet](https://drive.google.com/open?id=1gE4w-G6pWufq-snQA_k95VCw7HfDCNvlc92kXj0I-D8)
 
 ## Google Docs Drive
 

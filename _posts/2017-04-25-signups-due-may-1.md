@@ -14,4 +14,4 @@ You can access the sign-up sheets with this [link][sign-up]. Please print it
 out, fill it in, and return it to Lake Middle School office, or email Jennifer
 Sawyer.
 
-[sign-up]: https://drive.google.com/open?id=0B7O54woMLwgSd0gwOUpxSVB5N28
+[sign-up]: https://drive.google.com/open?id=1gE4w-G6pWufq-snQA_k95VCw7HfDCNvlc92kXj0I-D8

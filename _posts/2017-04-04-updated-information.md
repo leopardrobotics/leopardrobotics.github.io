@@ -17,4 +17,4 @@ should watch this website. Once it is sent to the students, we'll post it here.
 
 [slides]: https://drive.google.com/open?id=0B7O54woMLwgSS0JhU3JJUVViZjQ
 [sheet]: https://drive.google.com/open?id=0B7O54woMLwgSV19ocUlSN1Q5SEE
-[sign-up]: https://drive.google.com/open?id=0B7O54woMLwgSd0gwOUpxSVB5N28
+[sign-up]: https://drive.google.com/open?id=1gE4w-G6pWufq-snQA_k95VCw7HfDCNvlc92kXj0I-D8
