@@ -4,9 +4,10 @@ title:  "Mentors' Meeting on 6/13/2017"
 date:   2017-06-13 18:16:00 -0500
 categories: update
 ---
-Tonight we will be having a Mentors' General Meeting at 7:30 PM in the Choir
-Room at Lake Middle School. Times are relative, and I'd like to end general
-business a little early. Please bring ideas on fund raising and sponsorships!
+Tonight, Tuesday the 13th of June, we will be having a Mentors' General Meeting
+at 7:30 PM in the Choir Room at Lake Middle School. Times are relative, and I'd
+like to end general business a little early. Please bring ideas on fund raising
+and sponsorships!
 
 Agenda:
 
