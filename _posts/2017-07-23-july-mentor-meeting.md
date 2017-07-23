@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mentors' Meeting on 7/25/2017"
-date:   2017-06-13 18:16:00 -0500
+date:   2017-07-23 18:16:00 -0500
 categories: update
 ---
 On Tuesday the 25th of July, we will be having a Mentors' General Meeting
