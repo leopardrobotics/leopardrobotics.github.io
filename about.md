@@ -9,7 +9,7 @@ Spring of 2017. It is composed of multiple teams of between 6 and 15 children
 and 2 to 4 mentors.
 
 If you are a student or mentor interested in becoming involved with the
-2017-2018 season, please subscribe to the [leopardrobotics-discuss][lr-discuss]
+2018-2019 season, please subscribe to the [leopardrobotics-discuss][lr-discuss]
 email list on [Google Groups][gg] and introduce yourself.
 
 If you're interested in volunteering as a mentor, please subscribe to

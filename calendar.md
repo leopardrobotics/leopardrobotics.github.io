@@ -1,14 +1,21 @@
 ---
 layout: page
-title: Calendar
+title: Calendars
 permalink: /calendar/
 ---
-{{ site.title }} uses [Google Calendar][calendar] to publish its events. It can
-be viewed here as [HTML][lr-cal-html], imported as [ICAL][lr-cal-ical], or
-subscribed to in Google Calendar.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=4b723fvk23nkoqv0p2bl0pc144%40group.calendar.google.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+{{ site.title }} uses Basecamp Schedules[^1] to publish its events. The Club
+calendar is publicly accessible here. Expect to find club-level events and
+mentor meeting announcements here.
 
-[calendar]: https://calendar.google.com/
-[lr-cal-html]: https://calendar.google.com/calendar/embed?src=4b723fvk23nkoqv0p2bl0pc144%40group.calendar.google.com&ctz=America/Chicago
-[lr-cal-ical]: https://calendar.google.com/calendar/ical/4b723fvk23nkoqv0p2bl0pc144%40group.calendar.google.com/public/basic.ics
+- [Club Calendar](https://public.3.basecamp.com/p/izdJC3cwWLxWyBV5azrEFWX7 "Club Calendar")
+
+Within Basecamp, there are separate calendars for Team and Mentors. If you are a
+Team member of Mentor, you will be assigned appropriately and will have access
+to these calendars, which you can link or import into your favorite calendaring
+application. For more information on using these calendars in Basecamp, visit
+[Basecamp Support](https://3.basecamp-help.com/article/49-schedule "Basecamp
+Support for Schedules").
+
+
+[^1]: _The old Google Calendar has not been used since we adopted Basecamp as our club platform._
