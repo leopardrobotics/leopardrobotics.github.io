@@ -3,6 +3,7 @@ layout: page
 title: Documentation
 permalink: /docs/
 ---
+
 ## Wiki
 
 There is an [on-line wiki][wiki], a collaborative site to collect and edit
@@ -13,9 +14,9 @@ documentation, for the club.
 - [Information Presentation Slides](https://drive.google.com/open?id=0B7O54woMLwgSS0JhU3JJUVViZjQ)
 - [Basic Information](https://drive.google.com/open?id=0B7O54woMLwgSV19ocUlSN1Q5SEE)
 
-## Sign-up Sheet (Due May 1, 2017)
+## Sign-up Sheet for 2018-2019 Season
 
-- [Sign-up Sheet](https://drive.google.com/open?id=1gE4w-G6pWufq-snQA_k95VCw7HfDCNvlc92kXj0I-D8)
+- Sign-up Sheet (Coming Soon)
 
 ## Google Docs Drive
 
