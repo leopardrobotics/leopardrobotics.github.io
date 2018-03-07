@@ -15,7 +15,9 @@ there are school conferences going on for Middleton Elementary school, but with
 the larger window of time to visit, we hope you can stop by if you're
 interested.
 
-You can sign up using [this form](https://docs.google.com/forms/d/1AYpU8PAnRgN--xU_1IkfJugIeQnvGl3owOceXODwrzw/edit?usp=sharing "Leopard Robotics FTC Registration 2018-2019").
+
+
+You can sign up using [this form](https://docs.google.com/forms/d/e/1FAIpQLSd49aDsKlSLuTXNQZ6Yk8A_Qj_s43BuHxDjaGOIcvs6wuf9PA/viewform "Leopard Robotics FTC Registration 2018-2019").
 
 After signing up, you'll be sent an email confirming your information and
 providing you a link to a Behavior Contract.
