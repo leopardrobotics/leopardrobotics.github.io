@@ -4,11 +4,6 @@ title: Documentation
 permalink: /docs/
 ---
 
-## Wiki
-
-There is an [on-line wiki][wiki], a collaborative site to collect and edit
-documentation, for the club.
-
 ## Documents from the First Meeting (March 20, 2017)
 
 - [Information Presentation Slides](https://drive.google.com/open?id=0B7O54woMLwgSS0JhU3JJUVViZjQ)
@@ -16,7 +11,7 @@ documentation, for the club.
 
 ## Sign-up Sheet for 2018-2019 Season
 
-- Sign-up Sheet (Coming Soon)
+You can sign up using [this form](https://docs.google.com/forms/d/e/1FAIpQLSd49aDsKlSLuTXNQZ6Yk8A_Qj_s43BuHxDjaGOIcvs6wuf9PA/viewform "Leopard Robotics FTC Registration 2018-2019").
 
 ## Google Docs Drive
 

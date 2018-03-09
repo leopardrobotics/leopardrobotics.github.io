@@ -7,13 +7,13 @@ categories: update
 
 # 2018-2019 Registration Kickoff Meeting #
 
-Tuesday evening at 7:00 PM to 9:00 PM, mentors and students from the Leopard
-Robotics Club will present general information about FIRST Tech Challenge and
-how we at Lake Middle School run the teams! If you have questions, please come
-around 7:00 PM for the presentation and stay to ask questions. We realize that
-there are school conferences going on for Middleton Elementary school, but with
-the larger window of time to visit, we hope you can stop by if you're
-interested.
+On Tuesday evening, March 6th, at 7:00 PM to 9:00 PM, mentors and students from
+the Leopard Robotics Club will present general information about FIRST Tech
+Challenge and how we at Lake Middle School run the teams! If you have questions,
+please come around 7:00 PM for the presentation and stay to ask questions. We
+realize that there are school conferences going on for Middleton Elementary
+school, but with the larger window of time to visit, we hope you can stop by if
+you're interested.
 
 
 
