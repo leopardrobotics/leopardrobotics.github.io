@@ -52,6 +52,11 @@ For that matter, if you are a parent and your child doesn't attend Lake Middle
 School and there is no similarly offered robotics program, both you and your
 child CAN participate.
 
+## Your children are guaranteed a spot on a Team! ##
+
+If you volunteer to be a *Lead Mentor*, your child or children's spots are
+guaranteed!
+
 ## What's this about a Background Check? ##
 
 We want our kids to be safe! Lead Mentors must undergo two background checks.
