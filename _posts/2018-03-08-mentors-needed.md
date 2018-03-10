@@ -13,7 +13,7 @@ entered a *Waitlist* status. What gives?
 
 Until we have enough *Lead Mentors* to host a fifth team, further registrations
 will be put on a first-come first-serve *Waitlist*. Your status will be
-communicated shortly shortly after registration.
+communicated shortly after registration.
 
 Having two more *Lead Mentors* will open the opportunity for another 10 students
 to use the fifth robot kit waiting in the wings. In fact, we can put together
@@ -30,7 +30,7 @@ include:
   - Keeping students on task and productive
   - Resolving conflicts between students
   - Help keep track of purchases and financing
-  - Supervise one to three day-long competition events
+  - Supervise students at day-long competition events (up to 3)
 
 ## A Lead Mentor need not be an Engineer (or Programmer)! ##
 
