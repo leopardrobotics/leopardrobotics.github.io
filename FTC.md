@@ -3,7 +3,11 @@ layout: page
 title: FTC
 permalink: /FTC/
 ---
-# FTC Questions
+
+{{ site.title }} organizes multiple teams for is the a [FIRST][first]&reg; [Tech
+Challenge][tc] for [Lake Middle School][lms] in [City of Woodbury][woodbury],
+originally formed in the Spring of 2017.
+
 ## Questions for Students
 
 ### What grade do I have to be to participate?
@@ -131,3 +135,11 @@ April respectively. The schedule is found
 Gifts can be issued to Lake Middle School for the purpose of the robotics club.
 Gifts are subject to school Board approval. All gifts are tax deductible. If you
 are interested in providing a gift, please contact info@leopardrobotics.club.
+
+[first]: https://www.firstinspires.org
+[tc]: https://www.firstinspires.org/robotics/ftc
+[fll]: https://www.firstinspires.org/robotics/fll
+[lms]: http://lms.sowashco.org/
+[woodbury]: https://www.woodburymn.gov/
+[info]: mailto:{{ site.email }}
+
