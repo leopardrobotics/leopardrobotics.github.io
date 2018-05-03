@@ -28,11 +28,11 @@ one suggested here. Follow the link above for instructions on installing `rbenv`
 It is also suggested that [ruby-build][ruby-build] be installed as a plugin to
 `rbenv` to enable you to simply run:
 
-    rbenv install 2.3.1
+    rbenv install 2.5.1
 
 Now that Ruby is installed, install the `bundler` gem:
 
-    rbenv use 2.3.1
+    rbenv use 2.5.1
     gem install bundler
 
 [Bundler][bundler] is a gem that helps manage gems, or libraries of functions
