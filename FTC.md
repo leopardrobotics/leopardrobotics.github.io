@@ -28,20 +28,19 @@ it possible to work on the program for your robot remotely.
 
 ### I didn't sign up on time (or I just arrived in the district this Fall), can I still join?
 
-The long and short of it is: it depends. Each team requires two *Lead Mentors*,
-analogous to a Soccer Coach, to coordinate and supervise the students. They must
-be 18 years of age, pass background checks, and be willing to donate on average
-5 hours per week. For the 2017-2018 season, we had 10 lead mentors. For the
-2018-2019 season, we currently have 8. With a maximum team size of 10 or 11,
-that gives us 40-44 students who can actively participate.
+Leopard Robotics registration for the 2018-2019 FTC season is
+effectively closed. Registration for the 2019-2020 season will begin
+in March of 2019. One could sign up for the *Waitlist*, and if a spot
+becomes available on one of the five teams.
 
-We are currently in a *Waitlist* status for the 2018-2019 season. Until we find
-more *Lead Mentors*, registration is effectively closed.
+Alternatively, if enough students are interested, and if two volunteer
+adults step up to become *Lead Mentors*, another team could be
+formed. Keep in mind that tounament registrations for our region open
+during the last week of September and close in the middle of October.
 
 ## Questions for Parents
 
 ### How much is the 2018-2019 season fee going to be?
-
 
 We are asking for a $150 participation fee for each family.
 
@@ -62,9 +61,9 @@ working with their teammates.
 
 ### My child attends a different school in District 833. Can he/she still participate?
 
-If there is no similar offering at your student's school, they can participate
-here. Currently there is no similar program at Woodbury Middle School or New
-Life Academy, so those students are eligible to participate.
+If there is no similar offering at your student's school, they can
+participate here. Currently, there is no similar program at New Life
+Academy, so those students are eligible to participate.
 
 ## Questions for Mentors #
 
@@ -90,7 +89,6 @@ assembly to address the business of running the club at least three or four
 times per year. Certainly, we will likely go to the same competitions, and teams
 will share workspace in the Lake Middle School shop classroom.
 
-
 ## Questions for Everyone
 
 ### What is Basecamp, and how to I use it?
@@ -100,41 +98,43 @@ includes an instant message service, message board, calendar, document sharing,
 and todo list management. It is the primary source of communication and
 management for the club.
 
-There are different "teams" in Basecamp, one called "Leopard Robotics HQ", one
-called "FTC Mentors", and one for each Team we have. We can also create separate
-"Projects" as needed.
+There are different "teams" in Basecamp, one called "Leopard Robotics
+HQ", one called "Club Mentors & Coaches", and one for each Team we
+have. We can also create separate "Projects" as needed.
 
-Basecamp includes both a website as well as mobile clients for all smart phones.
-You can receive emails for all updates, or you can quiet things down. Basecamp
-help site provides most details.
+Basecamp includes both a website as well as mobile clients for all
+smart phones.  You can receive emails for all updates, or you can
+quiet things down. Basecamp help site provides most details.
 
 ## How are the finances going to work? How will we collect fees?
 
-The Leopard Robotics Club operates as a Student Activity Account through Lake
-Middle School. Gifts and donations are tax deductible. We try to budget
-approximately $3,000 per team per year, $4,000 for rookie teams. Additionally,
-we target another 25% for common purchase items such as the game field or
-club-wide events.
+The Leopard Robotics Club operates as a Student Activity Account
+through Lake Middle School. Gifts and donations are tax deductible. We
+try to budget approximately $3,000 per team per year, $4,000 for
+rookie teams. Additionally, we target another 25% for common purchase
+items such as the game field or club-wide events.
 
-Participation fees are collected at Lake Middle School along with the Behavior
-Contract distributed to participants after they sign up.
+Participation fees are collected at Lake Middle School along with the
+Behavior Contract distributed to participants after they sign up.
 
 ## Roughly, when are the competitions going to be?
 
-Qualifying competitions begin in October and extend through early February.
-Typically, FTC teams participate in one or two qualifying competitions before
-moving on to State/Regional championships from December through March.
-Super-Regional and World Championships take place in February to March, and
-April respectively. The schedule is found
+Qualifying competitions begin in October and extend through early
+February.  Typically, FTC teams participate in one or two qualifying
+competitions before moving on to State/Regional championships from
+December through March.  Super-Regional and World Championships take
+place in February to March, and April respectively. The schedule is
+found
 [here](https://www.firstinspires.org/robotics/ftc/season-timeline)
 
 # Questions for Sponsors
 
 ## Can we accept gifts from sponsors? Will it be tax deductible?
 
-Gifts can be issued to Lake Middle School for the purpose of the robotics club.
-Gifts are subject to school Board approval. All gifts are tax deductible. If you
-are interested in providing a gift, please contact info@leopardrobotics.club.
+Gifts can be issued to Lake Middle School for the purpose of the
+Robotics Club.  Gifts are subject to school Board approval. All gifts
+are tax deductible. If you are interested in providing a gift, please
+contact info@leopardrobotics.club.
 
 [first]: https://www.firstinspires.org
 [tc]: https://www.firstinspires.org/robotics/ftc
