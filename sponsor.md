@@ -3,6 +3,29 @@ layout: page
 title: Sponsors
 permalink: /sponsors/
 ---
+Leopard Robotics extends a heartfelt, "Thank you" to all of our
+sponsors! It is your donations that help our students explore the
+fascinating world of robotics and STEM! We accept donations from
+individuals and companies through Lake Middle School. All donations
+are tax deductable, for donations above $50, a thank you letter from
+the District 833 will be sent to you with the district's tax
+information.
+
+To donate, please send a check or money order written to "Lake Middle
+School" with a memo to "Robotics":
+
+    Leopard Robotics Student Activity Club
+    Lake Middle School
+    Attn: Chula Albrecht
+    3133 Pioneer Drive
+    Woodbury, MN 55125
+
+If you wish for the donation to be ear-marked for a specific LEGO or
+Tech Challenge team, LEGO or Tech Challenge funds, or to the General
+fund, please also send an email to
+[{{site.email}}](mailto:{{site.email}}?subject=Donations).
+
+# Current and Past Sponsors
 
 ## 3M ##
 
