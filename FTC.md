@@ -4,137 +4,125 @@ title: FTC
 permalink: /FTC/
 ---
 
-{{ site.title }} organizes multiple teams for is the a [FIRST][first]&reg; [Tech
-Challenge][tc] for [Lake Middle School][lms] in [City of Woodbury][woodbury],
-originally formed in the Spring of 2017.
+![Rover Ruckus Logo](/assets/img/FIRST-RoverRuckus-logo_full-color-sponsor.png)
 
-## Questions for Students
+{{ site.title }} is home for five [FIRST][first]&reg; [Tech
+Challenge][tc] teams for [Lake Middle School][lms] in [City of
+Woodbury][woodbury], where students are challenged to design, build,
+program, and operate robots to compete in a head-to-head challenge in
+an alliance format. Participants call it “the hardest fun you’ll ever
+have!”
 
-### What grade do I have to be to participate?
+The positive impact on FIRST Tech Challenge participants is gratifying
+and well documented. Over 86% have more interest in doing well in
+school and 87% are more interested in attending college.
 
-We are accepting students from grade 6 through grade 8. FIRST Tech Challenge is
-officially open to 7th through 12th grade students. Each of the Woodbury area
-High Schools has a FIRST Robotics Challenge team, which students would likely
-enter in 9th grade. We have currently accepted as many sixth graders as we can
-without starting a new team and asking for three new parent mentors to lead that
-team.
+ [2016 FIRST  Tech Challenge Impact Infographic](https://www.firstinspires.org/sites/default/files/uploads/resource_library/impact/first-impact-infographic-sep16-ftc.pdf)
 
-### Do I need a computer?
+FIRST Tech Challenge teams get to..
 
-No, but it would be helpful. The robots are programmed with software that can be
-downloaded and installed on any Macintosh, Windows, or Linux computer. Source
-code for your robot can be shared here on the GitHub site for your teams, making
-it possible to work on the program for your robot remotely.
+  - Design, build, and program robots
+  - Apply real-world math and science concepts
+  - Develop problem-solving, collaboration, and team-building skills
+  - Build and become strong leaders
+  - Understand and practice Gracious Professionalism™
+  - Cooperate and compete in alliances at tournaments
+  - Compete for awards on and off the field
+  - Participate in a tiered competition that culminates at the FIRST Championship
+  - Qualify for millions of dollars in college scholarships
+  - Have fun!
 
-### I didn't sign up on time (or I just arrived in the district this Fall), can I still join?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/igR409sJly0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Leopard Robotics registration for the 2018-2019 FTC season is
-effectively closed. Registration for the 2019-2020 season will begin
-in March of 2019. One could sign up for the *Waitlist*, and if a spot
-becomes available on one of the five teams.
+## How Much does it cost? ##
 
-Alternatively, if enough students are interested, and if two volunteer
-adults step up to become *Lead Mentors*, another team could be
-formed. Keep in mind that tounament registrations for our region open
-during the last week of September and close in the middle of October.
+Costs vary from year to year depending on what tools and supplies can be reused.
+Teams will need a budget of about $3000 per year.
 
-## Questions for Parents
+Student fees cover part of that expense, and sponsors cover the rest.
 
-### How much is the 2018-2019 season fee going to be?
+Student fees to participate this year are *$150 per family*. It covers tshirt,
+tools, equipment, and supplies. It does not cover travel and food expenses for
+tournaments.
 
-We are asking for a $150 participation fee for each family.
+We are always looking for sponsors. If your company or your employer is
+interested in sponsoring robotics, come talk to us!
 
-### How often do the children meet?
+## Signing Up (WAIT LIST ACTIVE)
 
-Teams will meet approximately twice per week once the school season begins, one
-weekday evening, and Saturday afternoons. During the summer, we hope to have a
-handful of events or gatherings to introduce the kids to the robot kits, get
-started with programming, or maybe do a fundraising event (such as a carwash,
-etc.).
+You can sign up using [this
+form](https://docs.google.com/forms/d/e/1FAIpQLSd49aDsKlSLuTXNQZ6Yk8A_Qj_s43BuHxDjaGOIcvs6wuf9PA/viewform
+"Leopard Robotics FTC Registration 2018-2019").
 
-### How much time is involved?
+After signing up, you'll be sent an email confirming your information and
+providing you a link to a Behavior Contract.
 
-We expect the weeknight project nights to last a couple of hours, with
-Saturday's lasting up to three to four hours. Children are not expected to make
-it to every meeting, but are encouraged to spend as much time as they can
-working with their teammates.
+## What does every FIRST Tech Challenge team need? ##
 
-### My child attends a different school in District 833. Can he/she still participate?
+  - 2 or more adult Mentors who are willing and motivated to coach the team through the build and competition season, and beyond!
+  - Other adults can volunteer to help with administration, fundraising, community outreach, technical advising, and other tasks.
+  - A suitable meeting place and space to design and build a robot about the size of a microwave oven.
+  - A standard kit of robot parts and a common set of game and robot rules issued by FIRST Tech Challenge.
+  - A budget and a fundraising plan.
+  - The desire to learn, explore, strategize, build camaraderie, share ideas and talents, make new friends, be accepted, and HAVE FUN!
 
-If there is no similar offering at your student's school, they can
-participate here. Currently, there is no similar program at New Life
-Academy, so those students are eligible to participate.
+## When does FIRST Tech Challenge happen? ##
 
-## Questions for Mentors #
+The FIRST® Tech Challenge season starts in May, when teams generally form and
+registration opens. Season kick-off is in early September when the season's game
+is announced. The design and build season runs from September to January.
+Tournament season varies by region and can begin as early as October and
+continues through April. State and Regional Tournaments advance teams to
+Super-Regional Championship Tournaments, and winners earn spots at FIRST
+Championship at the end of April. There are also many off-season events where
+teams participate, strategize, hone their skills, learn new technology, meet
+other teams, and have fun!
 
-### What do we need to do for background checks? ##
+## What is the time commitment? ##
 
-There are two background checks we must complete. One is for the District 833
-school system. You can initiate this process by filling out this
-[PDF](http://www.sowashco.org/files/department/communications/files/Volunteers/2016VolunteerApplicationForm.pdf)
-and turning it into the main office. The office will contact you with
-instructions on how to complete an on-line submission form with Trusted
-Employees, and it costs $10.25 to fill out.
+Generally, plan on 2 meetings per week - one weekday evening and one weekend
+meeting time. Meetings run 2-3 hours. There may be more meetings as tournament
+time approaches. It is best if students are at all meetings. When they miss
+meetings, they have to catch up on what has happened when they were gone, and it
+slows down the work.
 
-The second background check is with FIRST, who uses Verified Volunteers to
-conduct the check. Although FIRST does not require mentors to pay the $8.00 for
-the background check, it is encouraged. Like the Trusted Employees system,
-Verified Volunteers is an on-line web form that takes only a few minutes to
-complete.
+## Any special skills required? ##
 
-### How often do the mentors meet?
+All skill levels are welcomed and needed, technical and non-technical. Teams
+need all kinds of skills to succeed, so what are you good at? Chances are we
+have a job for you. And we’ll probably teach you a few new ones while you’re
+with us. Student and adult team members are encouraged to bring any skills they
+already have, like programming, electronics, metalworking, graphic design, web
+creation, public speaking, videography, and many more. FIRST Tech Challenge
+welcomes *every student, with or without special skills*.
 
-Although we do not have a regular schedule, we expect to meet as a general
-assembly to address the business of running the club at least three or four
-times per year. Certainly, we will likely go to the same competitions, and teams
-will share workspace in the Lake Middle School shop classroom.
+## What is a mentor? ##
 
-## Questions for Everyone
+  - Parent or other adult who wants to get involved!
+  - Skills needed
+    - Administrative
+    - Electrical/ Electrical Engineering
+    - Mechanical Engineering
+    - Programming/Software
+    - CAD
+  - Time commitment
+    - Lead mentor - attends all meetings and tournaments - organizes and works with other mentors to create a program for the team
+    - Assistant mentor Major - attends all/most team meetings and all tournaments 
+  - Background check
+    - All mentors must pass 2 seperate background checks
+      - District 833
+      - FIRST
+  - Mentor training will be available and fun.
 
-### What is Basecamp, and how to I use it?
 
-[Basecamp](https://3.basecamp.com) is a project management platform that
-includes an instant message service, message board, calendar, document sharing,
-and todo list management. It is the primary source of communication and
-management for the club.
+## Tournaments ##
 
-There are different "teams" in Basecamp, one called "Leopard Robotics
-HQ", one called "Club Mentors & Coaches", and one for each Team we
-have. We can also create separate "Projects" as needed.
+Each team will participate in at least 1 tournament. The goal is to
+get each team into 2 tournaments. They are all day events that start at 8:00am
+and run till 5:30 or 6:00pm. Students are strongly encouraged to stay the entire
+day even if their team does not qualify for the elimination rounds.
 
-Basecamp includes both a website as well as mobile clients for all
-smart phones.  You can receive emails for all updates, or you can
-quiet things down. Basecamp help site provides most details.
-
-## How are the finances going to work? How will we collect fees?
-
-The Leopard Robotics Club operates as a Student Activity Account
-through Lake Middle School. Gifts and donations are tax deductible. We
-try to budget approximately $3,000 per team per year, $4,000 for
-rookie teams. Additionally, we target another 25% for common purchase
-items such as the game field or club-wide events.
-
-Participation fees are collected at Lake Middle School along with the
-Behavior Contract distributed to participants after they sign up.
-
-## Roughly, when are the competitions going to be?
-
-Qualifying competitions begin in October and extend through early
-February.  Typically, FTC teams participate in one or two qualifying
-competitions before moving on to State/Regional championships from
-December through March.  Super-Regional and World Championships take
-place in February to March, and April respectively. The schedule is
-found
-[here](https://www.firstinspires.org/robotics/ftc/season-timeline)
-
-# Questions for Sponsors
-
-## Can we accept gifts from sponsors? Will it be tax deductible?
-
-Gifts can be issued to Lake Middle School for the purpose of the
-Robotics Club.  Gifts are subject to school Board approval. All gifts
-are tax deductible. If you are interested in providing a gift, please
-contact info@leopardrobotics.club.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UwJVVdo_DXY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [first]: https://www.firstinspires.org
 [tc]: https://www.firstinspires.org/robotics/ftc
