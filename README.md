@@ -19,7 +19,7 @@ submit a merge request to the main project.
 
 ### Development Environment ##
 
-To get started, it is recommended that Ruby 2.3.1 or greater is used. Although
+To get started, it is recommended that Ruby 2.5.3 or greater is used. Although
 some distributions of Linux follow the latest ruby development, it is suggested
 that a toolkit like [rbenv][rbenv] or `rvm` is used to download and manage
 multiple versions of ruby. `rbenv` is the simplest to set up and use, and the
@@ -28,11 +28,11 @@ one suggested here. Follow the link above for instructions on installing `rbenv`
 It is also suggested that [ruby-build][ruby-build] be installed as a plugin to
 `rbenv` to enable you to simply run:
 
-    rbenv install 2.5.1
+    rbenv install 2.5.3
 
 Now that Ruby is installed, install the `bundler` gem:
 
-    rbenv use 2.5.1
+    rbenv use 2.5.3
     gem install bundler
 
 [Bundler][bundler] is a gem that helps manage gems, or libraries of functions
